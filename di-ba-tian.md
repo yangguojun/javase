@@ -6,5 +6,5 @@ BufferedReader
 
 多线程
 
-
+单例模式
 
