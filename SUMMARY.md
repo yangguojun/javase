@@ -7,4 +7,5 @@
 * [第四天](di-si-tian.md)
 * [第五天](di-wu-tian.md)
 * [第六天](di-liu-tian.md)
+* [第七天](di-qi-tian.md)
 
