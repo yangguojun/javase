@@ -1,4 +1,4 @@
 # JavaSE小目标集训营实训体系
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+小目标集训营，是卡尔信息为了提高大学生的动手能力、贴近企业实战。专门打造的集中实训体系。
 
