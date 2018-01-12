@@ -8,4 +8,5 @@
 * [第五天](di-wu-tian.md)
 * [第六天](di-liu-tian.md)
 * [第七天](di-qi-tian.md)
+* [第八天](di-ba-tian.md)
 
