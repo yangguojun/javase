@@ -506,11 +506,8 @@ returnMain\(\);
 
 }
 
-
-
 Test.java
 
-  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Monaco}  
 p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Monaco; min-height: 25.0px}  
 p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Monaco; color: \#931a68}  
@@ -518,35 +515,23 @@ p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Monaco; color: \#4e9072}
 span.s1 {color: \#931a68}  
 span.s2 {color: \#000000}  
 span.s3 {color: \#91afcb}  
-span.Apple-tab-span {white-space:pre}  
-
+span.Apple-tab-span {white-space:pre} 
 
 package com.carlinfo.dao;
 
-  
-
-
 public class Test {
-
-  
-
 
 publicstaticvoid main\(String\[\] args\) {
 
- // TODO Auto-generated method stub
+// TODO Auto-generated method stub
 
- BookManager bm = new BookManager\(\);
+BookManager bm = new BookManager\(\);
 
- bm.initial\(\);
+bm.initial\(\);
 
- bm.StartMenu\(\);
-
- }
-
-  
-
+bm.StartMenu\(\);
 
 }
 
-
+}
 
